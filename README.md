@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laz56565ypanda
+- 👋 Hi, I’m reda el amraoui
 - 👀 I’m interested in things that related to artificial intelligence
 - 🌱 I’m currently learning data analyst
 - 💞️ I’m looking to collaborate on ...
